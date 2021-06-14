@@ -43,3 +43,5 @@ $ yarn dev
 # O servidor irá iniciar em http://localhost:3000
 
 ```
+<h2>Aplicação em video</h2>
+<p>Caso queira visualizar essa aplicação em video clique neste <a href="https://youtu.be/x_mk6jnB6Sk">Link</a> </p>
