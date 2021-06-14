@@ -31,8 +31,8 @@ e o <a href="https://nodejs.org/pt-br/" target="_blank" >Node</a> instalados.</p
 # Clone este projeto
 $ git clone https://github.com/guisantanaa/teste-segware-brasil
 
-# Entre na pasta ecommerce-react
-$ cd ecommerce-react
+# Entre na pasta teste-segware-brasil
+$ cd teste-segware-brasil
 $ Execute o comando 'code .' e o projeto sera aberto no Visual Studio Code
 
 # Instale as dependências
